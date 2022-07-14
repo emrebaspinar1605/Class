@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\Class\obj\Debug\net6.0\Class.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\Class\obj\Debug\net6.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\Class\obj\Debug\net6.0\Class.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\Class\obj\Debug\net6.0\Class.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\Class\obj\Debug\net6.0\Class.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\Class\bin\Debug\net6.0\Class.exe
+C:\Users\Turku\Desktop\Pratikler\Class\bin\Debug\net6.0\Class.deps.json
+C:\Users\Turku\Desktop\Pratikler\Class\bin\Debug\net6.0\Class.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\Class\bin\Debug\net6.0\Class.dll
+C:\Users\Turku\Desktop\Pratikler\Class\bin\Debug\net6.0\Class.pdb
+C:\Users\Turku\Desktop\Pratikler\Class\obj\Debug\net6.0\Class.dll
+C:\Users\Turku\Desktop\Pratikler\Class\obj\Debug\net6.0\refint\Class.dll
+C:\Users\Turku\Desktop\Pratikler\Class\obj\Debug\net6.0\Class.pdb
+C:\Users\Turku\Desktop\Pratikler\Class\obj\Debug\net6.0\Class.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\Class\obj\Debug\net6.0\ref\Class.dll
